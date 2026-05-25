@@ -17,9 +17,9 @@ DevelopersHub-Advanced-Tasks/
 │ └── household_power_consumption.txt
 │
 ├── notebooks/
-│ ├── task1_term_deposit_XAI.ipynb
-│ ├── customer_segmentation.ipynb
-│ └── energy_forecasting.ipynb
+│ ├── Adv_Task1_Term_Deposit_XAI.ipynb
+│ ├── Adv_Task2_Customer_Segmentation.ipynb
+│ └── Adv_Task3_Energy_Forecasting.ipynb
 │
 ├── outputs/
 │ ├── (generated plots: png files from all tasks)
