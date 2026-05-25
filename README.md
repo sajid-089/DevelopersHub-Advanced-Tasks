@@ -7,7 +7,6 @@ This repository contains **3 complete Machine Learning / Data Science tasks and 
 ## 📁 Project Structure
 
 
-## Repository Structure
 ```text
 DevelopersHub-Advanced-Tasks/
 │
