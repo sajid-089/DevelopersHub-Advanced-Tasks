@@ -26,7 +26,7 @@ DevelopersHub-Advanced-Tasks/
 │
 ├── streamlit_app/
 │ └── app.py
-││
+|
 └── README.md
 ```
 
