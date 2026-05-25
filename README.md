@@ -204,7 +204,7 @@ Forecast household electricity consumption using time series models.
 
 ```bash
 pip install prophet
-
+```
 
 ## Model 3: XGBoost
 - Converts time series → supervised learning
@@ -212,6 +212,7 @@ pip install prophet
 
 ```bash
 pip install xgboost
+```
 
 ## 📈 Evaluation Metrics
 ---------------------
