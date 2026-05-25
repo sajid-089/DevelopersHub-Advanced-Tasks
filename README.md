@@ -1,6 +1,6 @@
 # 📊 DevelopersHub Advanced Tasks (End-to-End ML + Dashboard Project)
 
-This repository contains **3 complete Machine Learning / Data Science tasks** including classification, clustering, time-series forecasting, and a fully interactive Streamlit BI dashboard.
+This repository contains **3 complete Machine Learning / Data Science tasks and 1 streamlit dashboard** including classification, clustering, time-series forecasting, and a fully interactive Streamlit BI dashboard.
 
 ---
 
